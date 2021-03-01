@@ -1,0 +1,18 @@
+02-02-2021 10:32:11 - ERROR - v: 7.0.3 - m: 25,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/Fond_Maquette.jpg
+02-02-2021 10:32:11 - ERROR - v: 7.0.3 - m: 25,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/Fond_Maquette.jpg
+02-02-2021 10:33:24 - ERROR - v: 7.0.3 - m: 25,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/Fond_Maquette.jpg
+02-02-2021 10:33:24 - ERROR - v: 7.0.3 - m: 25,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/Fond_Maquette.jpg
+02-02-2021 10:54:46 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:54:46 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:55:25 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:55:25 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:55:56 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:55:56 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:56:14 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 10:56:14 - ERROR - v: 7.0.3 - m: 20,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 12:45:06 - ERROR - v: 7.0.3 - m: 20,1 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 12:45:06 - ERROR - v: 7.0.3 - m: 20,1 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletter1.jpg
+02-02-2021 12:46:01 - ERROR - v: 7.0.3 - m: 22,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletters.jpg
+02-02-2021 12:46:01 - ERROR - v: 7.0.3 - m: 22,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletters.jpg
+02-02-2021 12:46:17 - ERROR - v: 7.0.3 - m: 22,0 Mo, u: 1 - Impossible de lire la taille de l’image redimensionnée (error_getting_dimensions) - C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletters.jpg
+02-02-2021 12:46:17 - ERROR - v: 7.0.3 - m: 22,0 Mo, u: 1 - File: C:\wamp64\www\Wordpress\wordpress/wp-content/uploads/2021/02/newsletters.jpg
